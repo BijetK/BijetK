@@ -1,4 +1,4 @@
-# Introduce
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Introduce%20BiJetK&fontSize=90)
 
 **Beomjin Kim**
 
