@@ -24,8 +24,9 @@ WAI 김범진
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">  
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 
-
-[![BiJetk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bijetk&theme=tokyonight&text_color=#199c6e)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center" display="inline-block">
+    [![BiJetk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bijetk&theme=tokyonight&text_color=#199c6e)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
  
