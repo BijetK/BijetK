@@ -25,14 +25,11 @@ WAI 김범진
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 
 
-<div align=center>
-[![BiJetk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bijetk&theme=tokyonight&text_color=#199c6e)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 <div align=center>
 
-![BiJetk's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true&theme=tokyonight&text_color=#199c6e)
+![BiJetk's github stats](https://github-readme-stats.vercel.app/api?username=Bijetk&show_icons=true&theme=tokyonight&text_color=#199c6e)
  
 
 
