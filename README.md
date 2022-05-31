@@ -20,18 +20,18 @@
   <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </p>
-
+<br><br>
 
 <p align="center">
     <Strong>💡 Using Tools 💡</Strong><br>
 </p>
-
+<br><br>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">  
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 
 
-<br><br><br>
+<br><br>
 
 <div align=center>
 
