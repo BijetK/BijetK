@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=About%20BiJetK&fontSize=70)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=About Me&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BiJetk's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 **Beomjin Kim**
 
 WAI 김범진
-<br><br>Beomjin Kim, who is completing the 5th course of multi-campus big data-based intelligent service development.
+<br><br>
 
 <p align="center">
     <Strong>⚒️ Tech ⚒️</Strong><br>
