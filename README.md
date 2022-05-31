@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=AboutMe&fontSize=90&animation=fadeIn&fontAlignY=38&desc=BiJetk's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-
+<p align="center">
 **Beomjin Kim**<br>
 **WAI 김범진**
+</p>
 <br><br>
 
 <p align="center">
