@@ -28,7 +28,11 @@ WAI 김범진
 <div align=center>
 [![BiJetk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bijetk&theme=tokyonight&text_color=#199c6e)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
+<div align=center>
+
+![BiJetk's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true&theme=tokyonight&text_color=#199c6e)
  
 
 
