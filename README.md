@@ -6,7 +6,7 @@
 <br><br>
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="[https://www.instagram.com/tieble_k/](https://www.instagram.com/tieble_k/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/tieble.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
 
 <br><br>
